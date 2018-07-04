@@ -1,3 +1,1 @@
-console.log("b");
-require("./b2");
-console.log("hhhhhh");
+console.log("Do not use hello world!");
